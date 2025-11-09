@@ -8,5 +8,7 @@ node_modules/
 dist/
 npm-debug.log
 yarn-error.log
+*.blend
+*.blend1
 
 # End of https://www.toptal.com/developers/gitignore/api/vuejs
